@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "buildx-python-dodgy-game"
+version = "0.1.0"
+description = ""
+authors = ["Arun Manivannan <arun@arunma.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "buildx_python_dodgy_game"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pygame = "^2.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
