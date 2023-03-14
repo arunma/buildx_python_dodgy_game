@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "buildx-python-dodgy-game"
 version = "0.1.0"
-description = ""
+description = "Dodgy game"
 authors = ["Arun Manivannan <arun@arunma.com>"]
 license = "MIT"
 readme = "README.md"
